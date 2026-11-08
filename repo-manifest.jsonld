@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/gatac-reproducibility/commit/834b0bf8af344c8850d408874214955550474b40",
       "git:hexsha": "834b0bf8af344c8850d408874214955550474b40",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T03:40:51.177771+00:00"
     }
   ]
 }
